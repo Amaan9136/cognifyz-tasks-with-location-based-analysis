@@ -10,3 +10,5 @@ This repository contains all the tasks completed for **Cognifyz Technologie**.
 2. **Task 2:** Restaurant Recommendation System
 3. **Task 3:** Restaurant Cuisine Classification
 4. **Task 4:** Location-Based Analysis of Restaurants
+
+## DRIVE LINK WITH VIDEO EXPLANATION AND SCREENSHOTS : https://drive.google.com/drive/folders/15nYFAC8JVxu-IwBPpZ3y25ydG3OHbYr4
