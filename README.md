@@ -1,5 +1,7 @@
 # Cognifyz Technologie - Task Completion
 
+## Github Repository: https://github.com/Amaan9136/cognifyz-tasks-with-location-based-analysis
+
 This repository contains all the tasks completed for **Cognifyz Technologie**.
 
 ## Tasks Completed
